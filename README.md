@@ -201,6 +201,8 @@ Creative intelligence sits at the intersection of computation, art, and artifici
 
 - **[K:BOT](https://kernel.chat)** — An open-source terminal AI agent with 37 specialist agents including creative, writing, design, and analysis capabilities. Features autonomous planning, learning from interactions, and multi-provider AI support. `TypeScript` [GitHub](https://github.com/isaacsight/kernel)
 
+- **[1human agent integration](https://github.com/mdagnolops/1human-reels)** — MIT client and task-triggered skill for selecting credited motion references, consulting owner-approved shared libraries, and publishing authorized creations to the hosted 1human network. `JavaScript`
+
 ## Scientific Creative AI
 
 *AI systems that exhibit creative intelligence in scientific discovery, protein design, and mathematical reasoning.*
